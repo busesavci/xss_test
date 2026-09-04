@@ -1,2 +1,1 @@
-# xss_test
-xss_test
+Test files for pentest
